@@ -5,7 +5,7 @@ This is the code to run the simulations presented in the manuscript as well as t
 
 ## Dependencies
 
-This project was tested with the following version:
+This project was tested with the following versions:
 
 - python 3.6 and 3.7
 - pytorch 1.4
